@@ -90,42 +90,6 @@ const AboutPage = () => {
             </p>
           </div>
         </div>
-        <br />
-        <div className="Job_experience" data-aos="zoom-in">
-          <div className="job_exp_icon">
-            <img src={OfficeBagIcon} alt="officeBag_icon" />
-          </div>
-          <div className="job_desc">
-            <div className="job_text">
-              <h1>Junior Engineer</h1>
-              <h4>Fine components pvt ltd (FEB 2020 –APRIL 2022)</h4>
-            </div>
-            <p>
-              I worked as a new product development engineer, responsible for
-              conducting the trial and submitting samples to the customer.
-              Development bought out parts inspection and material
-              characteristic testing. PPAP document preparation. Solving
-              customer complaints with an 8D approach.
-            </p>
-          </div>
-        </div>
-        <br />
-        <div className="Job_experience" data-aos="zoom-in">
-          <div className="job_exp_icon">
-            <img src={OfficeBagIcon} alt="officeBag_icon" />
-          </div>
-          <div className="job_desc">
-            <div className="job_text">
-              <h1>Junior Engineer</h1>
-              <h4> Supangita Engineers pvt ltd (JULY 2018 –FEB 2020)</h4>
-            </div>
-            <p>
-              I worked as a junior engineer at Supangita Engineers Pvt. Ltd.,
-              responsible for process inspection and final inspection. Attending
-              to the customer complaint and rectifying the issue.
-            </p>
-          </div>
-        </div>
       </div>
     </div>
   );

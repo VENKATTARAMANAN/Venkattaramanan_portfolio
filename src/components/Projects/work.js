@@ -47,14 +47,7 @@ export default function work({ title, desc, tags, link, code, img }) {
         </div>
 
         <div className="mt-4 flex flex-wrap gap-2 text-[14px]">
-          {/* {tags.map((tag) => (
-            <p
-              key={tag.name}
-              className={`font-medium text-${tag.color} py-0.5 px-1 bg-slate-800 rounded-sm shadow`}
-            >
-              {tag.name}
-            </p>
-          ))} */}
+         
         </div>
       </div>
     </Tilt>

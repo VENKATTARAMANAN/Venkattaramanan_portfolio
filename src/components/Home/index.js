@@ -47,7 +47,7 @@ export default function Home() {
         data-aos="zoom-out-up"
         data-aos-delay="1400"
       >
-        <a   href={require("../../assets/files/Venkattaramanan resume.pdf")}
+        <a   href={require("../../assets/files/Venkattaramanan_FullStackDeveloper.pdf")}
             download={"Venkattaramanan Resume"}>Download CV</a>
       </button>
       <div
