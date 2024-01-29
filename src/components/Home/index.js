@@ -47,7 +47,7 @@ export default function Home() {
         data-aos="zoom-out-up"
         data-aos-delay="1400"
       >
-        <a   href={require("../../assets/files/Venkattaramanan_MernStackDeveloper.pdf")}
+        <a  target="blank" href="https://drive.google.com/file/d/1wzcwG_9z1afKXZZQH0DamON3fYWAilWn/view?usp=sharing"
             download={"Venkattaramanan Resume"}>Download CV</a>
       </button>
       <div

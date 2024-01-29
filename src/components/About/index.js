@@ -4,7 +4,7 @@ import Lottie from "lottie-react";
 import GraduateIcon from "../../assets/files/graduate_icon.svg";
 import SchoolIcon1 from "../../assets/files/school_icon.svg";
 import SchoolIcon2 from "../../assets/files/school_icon2.svg";
-import OfficeBagIcon from "../../assets/files/officeBag_icon.svg";
+import OfficeBagIcon from "../../assets/files/certificate.svg";
 import DeveloperYoga from "../../assets/files/developer yoga.json";
 const AboutPage = () => {
   const qualifications = [
@@ -71,7 +71,7 @@ const AboutPage = () => {
       <br />
       <div className="job_exp">
         <h1 data-aos="zoom-in-down">
-          Job <span>Experience</span>
+          <span>Certification</span>
         </h1>
 
         <div className="Job_experience" data-aos="zoom-in">
@@ -80,13 +80,13 @@ const AboutPage = () => {
           </div>
           <div className="job_desc">
             <div className="job_text">
-              <h1>PPSM Analyst</h1>
-              <h4>Accenture India Private Ltd (JUN 2022-NOV 2022)</h4>
+              <h1>Full Stack Developer</h1>
+              <h4>GUVI (IITM Chennai) (FEB 2023-AUG 2023)</h4>
             </div>
             <p>
-              I worked as a SAP Analyst in Accenture India pvt ltd.Responsible
-              for resolving P2,P3 tickets.Maintained and update the ticket
-              status for tracking tickets.
+              I have successfully completed a Full Stack Development course,
+              gaining proficiency in HTML, CSS, JavaScript, Node.js, and
+              MongoDB.
             </p>
           </div>
         </div>
