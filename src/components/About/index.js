@@ -81,7 +81,7 @@ const AboutPage = () => {
           <div className="job_desc">
             <div className="job_text">
               <h1>Full Stack Developer</h1>
-              <h4>GUVI (IITM Chennai) (FEB 2023-AUG 2023)</h4>
+              <h4>GUVI (IITM Chennai) (FEB 2023-SEP 2023)</h4>
             </div>
             <p>
               I have successfully completed a Full Stack Development course,

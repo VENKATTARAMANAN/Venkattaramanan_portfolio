@@ -2,7 +2,6 @@ import EmailIcon from "@mui/icons-material/Email";
 import AlternateEmailIcon from "@mui/icons-material/AlternateEmail";
 import PersonIcon from "@mui/icons-material/Person";
 import FileDownloadDoneIcon from "@mui/icons-material/FileDownloadDone";
-// import PhoneIcon from "@mui/icons-material/Phone";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
 import CopyrightIcon from "@mui/icons-material/Copyright";
@@ -160,15 +159,7 @@ export default function Contact() {
               </svg>
               Sending...
             </button>
-            {/* <button
-              type="button"
-              className={`bg-clr_blue ${
-                loading === true ? "visible" : "hidden"
-              }`}
-              disabled
-            >
-              Sending...
-            </button> */}
+        
             <button
               type="button"
               disable={"true"}

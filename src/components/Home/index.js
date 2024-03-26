@@ -47,7 +47,7 @@ export default function Home() {
         data-aos="zoom-out-up"
         data-aos-delay="1400"
       >
-        <a  target="blank" href="https://drive.google.com/file/d/1wzcwG_9z1afKXZZQH0DamON3fYWAilWn/view?usp=sharing"
+        <a  target="blank" href="https://drive.google.com/file/d/1ItzgdWhPt5BXLyl-NH4ypxK9Y6eJcPmM/view?usp=sharing"
             download={"Venkattaramanan Resume"}>Download CV</a>
       </button>
       <div
